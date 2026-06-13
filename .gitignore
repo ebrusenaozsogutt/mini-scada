@@ -1,0 +1,11 @@
+.vs/
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.db
+__pycache__/
+*.pyc
+analysis_report.xlsx
+*.png
