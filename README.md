@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Demo Preview
 
 ### Main Screen
@@ -252,3 +253,6 @@ Internship Project – Mini SCADA-Inspired Industry 4.0 Desktop Monitoring and A
 
 1. Clone the repository:
 ```bash
+=======
+# mini-scada
+>>>>>>> 645d5a7bdcc5d95b7b978b2257e6ee9d20486ad5
