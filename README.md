@@ -245,7 +245,7 @@ It represents a combination of industrial automation logic, desktop software dev
 
 ## Author
 
-Developed by **Hilal Yeşim Altunay**
+Developed by **Ebru Sena Özsöğüt**
 
 Internship Project – Mini SCADA-Inspired Industry 4.0 Desktop Monitoring and Analysis System
 
